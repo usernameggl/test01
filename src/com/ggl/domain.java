@@ -5,6 +5,7 @@ public class domain {
     private String name;
     private String gender;
     private Integer age;
+    private String address;
 
     @Override
     public String toString() {
